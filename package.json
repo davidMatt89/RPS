@@ -1,0 +1,16 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "nice, real nice... real nice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esm index.js"
+  },
+  "author": "David Matthews",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "esm": "^3.2.20",
+    "prompts": "^2.0.4"
+  }
+}
